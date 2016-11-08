@@ -1,0 +1,6 @@
+Name:           Code:            Dictionary:
+student;        student;         ПІБ студента;
+teacher;        teacher;         ПІБ викладача;
+subject;        subject;         Тема;
+information;    information;     Інформація;
+group;          group;           Група;
