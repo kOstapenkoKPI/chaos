@@ -1,0 +1,5 @@
+Name:           Code:     Dictionary:
+First name;     name;     Им'я;
+Last name;      name;     Прізвище;
+subject;        subject;  Тема;
+lecture;        lecture;  Викладач;
